@@ -6,7 +6,7 @@ import { ExternalLink, Shield, FileText, Clock } from "lucide-react";
 
 const Portal = () => {
   const handleLoginRedirect = () => {
-    window.location.href = "https://at-development-hgv7q18y.launchpad.cfapps.us10.hana.ondemand.com/fab33ba7-83a6-40da-b784-6f901b0d563c.VendorPortalservice.vendorportal-0.0.1/index.html#";
+    window.location.href = "https://the-hackett-group-d-b-a-answerthink--inc--at-developmen449c8dda.cfapps.us10.hana.ondemand.com/";
   };
 
   const features = [
